@@ -1,5 +1,5 @@
 # Project--self-driving-car
-**Go through the all the python file to understand the project**
+**Go through the all python file mentioned above to understand the project**
 <table>
 
   This project focuses on Reinforcement Learning which is used to used to make this project along with deep learning 
